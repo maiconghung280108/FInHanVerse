@@ -14,8 +14,7 @@
     "check-types": "tsc --pretty --noEmit",
     "pre-commit": "yarn lint && yarn prettier && yarn check-types",
     "test-all": "yarn lint && yarn prettier && yarn check-types && yarn build",
-    "analyze": "cross-env ANALYZE=true next build",
-    "prepare": "husky install"
+    "analyze": "cross-env ANALYZE=true next build"
   },
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
