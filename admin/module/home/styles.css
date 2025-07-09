@@ -1,0 +1,106 @@
+/* Dashboard Styles */
+.stats-card {
+  height: 100%;
+  padding: 1.25rem;
+  border: none;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.bg-green-100 {
+  background-color: #e6f4ea;
+}
+
+.bg-pink-100 {
+  background-color: #fce7f3;
+}
+
+.bg-purple-100 {
+  background-color: #ede9fe;
+}
+
+.stats-icon {
+  font-size: 1.75rem;
+  opacity: 0.9;
+}
+
+.data-card {
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  background-color: white;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+}
+
+.lesson-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0.5rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.2s;
+}
+
+.lesson-item:hover {
+  background-color: #f9fafb;
+}
+
+.status-chip-published {
+  background-color: #dcfce7 !important;
+  color: #166534 !important;
+  font-weight: 600;
+  font-size: 0.75rem !important;
+  height: 24px !important;
+  border-radius: 0.25rem !important;
+}
+
+.status-chip-draft {
+  background-color: #f3f4f6 !important;
+  color: #4b5563 !important;
+  font-weight: 600;
+  font-size: 0.75rem !important;
+  height: 24px !important;
+  border-radius: 0.25rem !important;
+}
+
+/* Custom Table Styling */
+.MuiTableHead-root .MuiTableCell-root {
+  background-color: #f9fafb;
+  font-size: 0.7rem;
+  color: #6b7280;
+  padding: 0.75rem 1rem;
+  letter-spacing: 0.05em;
+}
+
+.MuiTableBody-root .MuiTableCell-root {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.MuiTableRow-hover:hover {
+  background-color: #f9fafb !important;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .data-card {
+    overflow-x: auto;
+  }
+
+  .lesson-item {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 0.5rem;
+  }
+
+  .lesson-info {
+    margin-bottom: 0.75rem;
+    width: 100%;
+  }
+
+  .lesson-meta {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
