@@ -7,8 +7,8 @@ It combines **education**, **gaming**, and **real-life scenarios** to help kids 
 
 > 🧒 “Play smart, learn better – become a young financial expert!”
 
-## [DEMO - DRIVE LINK](https://drive.google.com/file/d/1-uexD9_YUx-jj5m_uFBfcJGHx2PpFRlK/view?usp=sharing)
-## [DOWNLOAD APK](https://drive.google.com/file/d/1qyMIOMe7dnzt31NWH2XCHkyUheJ8Wo0i/view?usp=sharing)
+## [DEMO - DRIVE LINK](https://drive.google.com/file/d/1d-e9Nz_s2E1-5nUvNt7uw1QWP3bG2G5D/view)
+## [DOWNLOAD APK](https://drive.google.com/file/d/1UxKKmwn_hpSq86ZTWxCnv0RxtfJ1MFkG/view)
 
 ---
 
