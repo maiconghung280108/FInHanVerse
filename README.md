@@ -1,8 +1,8 @@
-# 🧠 **Fin Kids – Ứng dụng học cờ vua thông minh**
+# 🧠 **FinHanVerse – Ứng dụng học cờ vua thông minh**
 
 ## 📌 **Giới thiệu tổng quan**
 
-Fin Kids là ứng dụng học tài chính cá nhân dành cho trẻ em (từ 8 đến 15 tuổi), kết hợp giữa **giáo dục**, **trò chơi**, và **tình huống thực tế** để giúp trẻ phát triển kỹ năng quản lý tài chính một cách thú vị và thực tiễn.
+FinHanVerse là ứng dụng học tài chính cá nhân dành cho trẻ em (từ 8 đến 15 tuổi), kết hợp giữa **giáo dục**, **trò chơi**, và **tình huống thực tế** để giúp trẻ phát triển kỹ năng quản lý tài chính một cách thú vị và thực tiễn.
 
 > 🧒 “Chơi vui, học hay – trở thành chuyên gia tài chính nhí!”
 
