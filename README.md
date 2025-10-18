@@ -24,35 +24,24 @@ It combines **education**, **gaming**, and **real-life scenarios** to help kids 
 
 ### ✅ 1. **Account System**
 
-![Lesson illustration](https://res.cloudinary.com/dks2uuwb6/image/upload/v1749383017/8_etkvzl.png)
-
 - Create and manage accounts (email/password).  
 - Sync learning progress, quiz scores, and badges.  
 - Edit personal information and avatar.
-
 ---
 
 ### 📚 2. **Financial Lesson Library**
 
-![Lesson illustration](https://res.cloudinary.com/dks2uuwb6/image/upload/v1749383018/9_jbfucv.png)
-
 - Divided into topics such as: saving, investing, entrepreneurship, etc.  
 - Each lesson includes: introduction + video + quiz.  
 - Suggests the next lesson based on learning progress.
-
 ---
 
 ### 🎮 3. **Interactive Features**
 
-![Scenario game illustration](https://res.cloudinary.com/dks2uuwb6/image/upload/v1749383017/10_oyzqqn.png)
-
 - **Quiz Game**: Multiple-choice or true/false quizzes with scores.
-
 ---
 
 ### 🧠 4. **Real-life Financial Scenarios (Story-based Game)**
-
-![Scenario game illustration](https://res.cloudinary.com/dks2uuwb6/image/upload/v1749383017/11_clmrya.png)
 
 - Choose spending, saving, and investment options.  
 - System responds to choices (increase/decrease capital).  
@@ -63,8 +52,6 @@ It combines **education**, **gaming**, and **real-life scenarios** to help kids 
 ---
 
 ### 🏆 5. **Rewards & Achievement System**
-
-![Achievement illustration](https://res.cloudinary.com/dks2uuwb6/image/upload/v1749383017/12_lvjmek.png)
 
 - **Achievement Badges**: “Young Investor”, “Future Entrepreneur”, etc.  
 - **Leaderboard**: Compare scores with others (optional toggle).  
